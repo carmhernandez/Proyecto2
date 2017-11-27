@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Acercade">AcercaDe</string>
+    <string name="Regresar">Regresar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="Santiago">Iglesias de Santiago Pasto , El 13 de marzo de 1894 se comenzó la demolición del ruinoso templo de Santiago; el 20 del mismo mes y año se coloco la piedra angular del nuevo y el primero de octubre de 1897, Fray Ezequiel Moreno Díaz, Obispo de Pasto, le inauguro solemnemente, con la rectoría espiritual de los capuchinos ecuatorianos, requeridos asiduamente y para quienes se construyo el amplio monasterio</string>
+    <string name="Lajas">Iglesias de las Lajas Pasto , Maravilla por su arquitectura medieval y por su ubicación topográfica entre los riscos de la cordillera de los Andes, razón por la cual, es denominado como Un milagro de Dios sobre el abismo</string>
+    <string name="lacapilla">Iglesias Lourdes Pasto,    La capilla de Nuestra Señora de Lourdes, que se destaca por su arquitectura colonial, tiene una sola nave rectangular. Su altar era de madera, pero ahora es de piedra, en forma de gruta, y en él se aprecia la imagen de Nuestra Señora de Lourdes. La capilla, en la que también se venera la imagen del Señor de los Despojos, tuvo su segunda remodelación, cuya obra terminó en 2006</string>
+     <string name="andres">Iglesias de San Andres Pasto,    El templo de San Andrés está ubicado en uno de los sectores más tradicionales de la ciudad, conocido como RUMIPAMBA, que en quichua significa “LLANURA DE PIEDRA”. Rumipamba ha sido escenario de importantes acontecimientos para la historia de Pasto, como la decapitación en 1564 a manos de las autoridades españolas, del joven criollo Gonzalo Rodríguez, quien desde comienzos de la colonia, buscaba la independencia de este territorio</string>
+<string name="catedral">Iglesias de la Catedral Pasto , La Catedral de Pasto, también conocida como Templo del Sagrado Corazón es una iglesia catedralicia de culto católico consagrada al Sagrado Corazón de Jesús y a San Francisco, localizada en el centro de la ciudad de Pasto</string>
+<string name="cristoRey">Iglesias de Cristo Rey Pasto ,El templo de Cristo Rey, en Pasto, fue levantado por los padres jesuitas luego de que decidieron echar abajo la iglesia de Santo Toribio, construida en 1572. Además de este espacio, se heredó de la comunidad dominica la imagen del Cristo de Sibundoy, adquirida en 1583, que es considerada como una de las joyas artísticas y religiosas del templo</string>
+    <string name="fatima">Iglesias de Fatima Pasto,  Es románico ultra modernista en su área se forma una amplia Cruz Latina, su altar único ocupa el centro del crucero y en la cumbre del templete, sostenido por cuatro columnas torneadas en espiral, está la preciosa imagen de la Virgen de Fátima que alumbra su amorosa luz. En los muros del templo se observa una serie de amplios y elegantes vitrales. El ara o altar es una enteriza laja blanca sobre bases de mármol negro. La luz entra a torrentes y el iris de sus vitrales amplios juegan como un encantado caleidoscopio</string>
+    <string name="UniversidadMariana">Universidad Mariana</string>
+    <string name="IngenieriaDeSistemas">IngenieriaDeSistemas</string>
+
+</resources>
